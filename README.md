@@ -26,10 +26,8 @@ unzip chromedriver_XXX64.zip
 # Donation
 If this does help you, please consider donating to support me for better tutorials. Any contribution is greatly appreciated!
 
-<div>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4JA8DLTMNRU5E&source=url
-    <img style="border-radius: 20px;  box-shadow: 0px 0px 10px 1px  #888888;"
-         src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/silver-pill-paypal-44px.png"
-         alt="Paypal"
-         height="auto" ></a>
-</div>
+[
+  ![Donate with PayPal]
+  (https://www.paypalobjects.com/webstatic/en_US/i/btn/png/silver-pill-paypal-44px.png)
+]
+(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4JA8DLTMNRU5E)
